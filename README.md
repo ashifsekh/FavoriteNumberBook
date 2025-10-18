@@ -14,7 +14,7 @@ Users can:
 
 Deployed on: **Flow EVM Testnet**
 
-📝 **Contract Address**: `0xYourContractAddressHere`
+📝 **Contract Address**: 0x7ac1bA4c0A4a411126B8b67CDc408CC3d2d7358f
 
 > Replace the above with your actual deployed address once live.
 
